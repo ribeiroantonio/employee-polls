@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`when rendering login page matches snapshot 1`] = `
+<div>
+  <div
+    class="container-sm mt-5"
+  >
+    <form>
+      <h2>
+        Log in to Employee Polls
+      </h2>
+      <div
+        class="mb-3"
+      >
+        <label
+          class="form-label"
+          for="userNameInput"
+        >
+          Username
+        </label>
+        <input
+          class="form-control"
+          id="userNameInput"
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        class="mb-3"
+      >
+        <label
+          class="form-label"
+          for="passwordInput"
+        >
+          Password
+        </label>
+        <input
+          class="form-control"
+          id="passwordInput"
+          type="password"
+          value=""
+        />
+      </div>
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Log In
+      </button>
+    </form>
+  </div>
+</div>
+`;
