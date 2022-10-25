@@ -16,8 +16,8 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 # Attributions
-Avatar images provided by studiogstock on Freepick.\
-https://www.freepik.com/free-vector/find-person-job-opportunity_8063764.htm#query=avatar&position=1&from_view=keyword
+Avatar images provided by pikisuperstar on Freepik.\
+https://www.freepik.com/free-vector/happy-people-avatars_7085154.htm#query=avatar&position=2&from_view=keyword"
 
 # Learn More
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
