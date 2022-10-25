@@ -94,10 +94,10 @@ const Poll = (props) => {
                         {answered && (
                           <>
                             <br/>
-                            <alert class="alert" role="alert">
+                            <div className="alert" role="alert">
                               {question.optionOne.votes.includes(loggedUser) && <p className="alert alert-success">You voted for this!</p>}
                               {firstOptionResults.percentage}% ({firstOptionResults.amount}) people voted for this!
-                            </alert>
+                            </div>
                           </>
                         )}
                       </div>
@@ -120,10 +120,10 @@ const Poll = (props) => {
                         {answered && (
                           <>
                           <br/>
-                          <alert class="alert" role="alert">
+                          <div className="alert" role="alert">
                             {question.optionTwo.votes.includes(loggedUser) && <p className="alert alert-success">You voted for this!</p>}
                             {secondOptionResults.percentage}% ({secondOptionResults.amount}) people voted for this!
-                          </alert>
+                          </div>
                         </>
                         )}
                       </div>
